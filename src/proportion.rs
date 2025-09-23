@@ -21,3 +21,5 @@ pub fn find_occurences(file: &File, word: String) -> u64 {
 
     occ_count
 }
+
+
